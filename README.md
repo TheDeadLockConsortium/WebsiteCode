@@ -6,6 +6,6 @@ clone the git repo, and then run ...
 
 [Astro](https://github.com/withastro/astro)
 
-[django]([https://github.com/django/django)
+[django](https://github.com/django/django)
 
 [Namecheap](https://namecheap.com)
