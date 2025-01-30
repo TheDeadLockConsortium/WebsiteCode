@@ -2,7 +2,7 @@
 [Documentation](https://github.com/TheDeadLockConsortium/Documentation)
 
 
-## How TO
+## How to
 clone the git repo, and then run 
 ```
 run.sh
