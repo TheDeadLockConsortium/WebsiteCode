@@ -1,1 +1,1 @@
-npm dev
+npm package-lock.json dev
