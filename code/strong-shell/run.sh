@@ -1,2 +1,2 @@
-npm package-lock.json dev
+npm install
 npm run dev
