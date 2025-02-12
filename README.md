@@ -3,7 +3,7 @@
 
 
 ## How to run locally
-clone the git repo, go to "code/strong-shell" and then run "run.sh" or "run.ps1" dependent on your terminal of choice.
+clone the git repo, go to "code/strong-shell" and then run "run-front.sh" or "run-front.ps1" dependent on your terminal of choice. In a seperate terminal, run "run-back.sh" or "run-back.ps1"
 
 # Dependancies 
 
