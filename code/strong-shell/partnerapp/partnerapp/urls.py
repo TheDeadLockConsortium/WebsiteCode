@@ -20,7 +20,7 @@ from rest_framework.routers import DefaultRouter
 from .views import PartnerViewSet
 
 router = DefaultRouter()
-router.register(r'api/parters', PartnerViewSet)
+router.register(r'api/partners', PartnerViewSet)
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include(router.urls)),
